@@ -1,3 +1,3 @@
 First project for TOP.
 
-Example recipe page in HTML
+Basic first website with main page being a list links to 3 of my favorite cocktail recipes.
